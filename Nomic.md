@@ -138,7 +138,7 @@ A player may not forfeit the game. Upon suggesting they will or would like to fo
 **326**
 The game may be played over an online medium including but not limited to a BBS, IRC, or Discord. Rules regarding quorum and voting remain in effect.
 
-(Proposal) **327**
+(Proposal) **327 -- Josh**
 
 
 Score Log
