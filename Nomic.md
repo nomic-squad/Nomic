@@ -134,13 +134,15 @@ Players will treat each other with respect and civility at all times. Gentle rib
 **325**
 A player may not forfeit the game. Upon suggesting they will or would like to forfeit, a player immediately loses 50 points.
 
-Proposal
 **326**
 The game may be played over an online medium including but not limited to a BBS, IRC, or Discord. Rules regarding quorum and voting remain in effect.
 
+(Proposal) **327**
+
+
 Score Log
-Jake 9
-Joshua -83
-Thomas 53
-Brett -17
-Noah 0
+**Jake** 9
+**Joshua** -83
+**Thomas** 53
+**Brett** -17
+**Noah** 0
