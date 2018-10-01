@@ -91,7 +91,7 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 
 
 **303**
-A “die” shall be defined as any combination of pseudorandom or random number generators capable of producing an output set  where and each element in O is equally likely within a commonly accepted tolerance; however, if n may be outside of the set of allowable outcomes A then there should be a vote adhering to standard voting procedure on how to map the set O to the set A.  If no decision is made, the user must roll the die until the output n is an element of A.
+A “die” shall be defined as any combination of pseudorandom or random number generators capable of producing an output set O⊇A  where A=\x∈ℤ:0<|x|<7\ and each element in O is equally likely within a commonly accepted tolerance; however, if n may be outside of the set of allowable outcomes A then there should be a vote adhering to standard voting procedure on how to map the set O to the set A.  If no decision is made, the user must roll the die until the output n is an element of A.
 
 **304**
 A rule change is adopted if and only if the vote is passed by a simple majority of the eligible voters.
