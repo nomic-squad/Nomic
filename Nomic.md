@@ -123,14 +123,11 @@ Abolish Rule 312
 **319**
 The winner is the first person to achieve 250 (positive) points.
 
-**320**
-Every player is an eligible voter. Eligible voters may abstain from voting at any time. Simulations are video games. Josh can not use the word simulation.
-
 **321**
 As a point of order, each player is entitled to his/her own opinions. On anything. Non-players may or may not hold opinions.
 
 **323**
-Players will treat each other with respect and civility at all times. Gentle ribbing is tolerable but should be treated on a case-by-case
+Players will treat each other with respect and civility at all times. Gentle ribbing is tolerable but should be treated on a case-by-case basis.
 
 **325**
 A player may not forfeit the game. Upon suggesting they will or would like to forfeit, a player immediately loses 50 points.
@@ -138,12 +135,12 @@ A player may not forfeit the game. Upon suggesting they will or would like to fo
 **326**
 The game may be played over an online medium including but not limited to a BBS, IRC, or Discord. Rules regarding quorum and voting remain in effect.
 
-(Proposal) **327 -- Josh**
-
+**327**
+Every player is an eligible voter. Eligible voters may abstain from voting at any time. Simulation games are a subset of video games which are a subset of interactive animation.
 
 Score Log
 **Jake** 9
-**Joshua** -83
+**Joshua** -146
 **Thomas** 53
 **Brett** -17
 **Noah** 0
