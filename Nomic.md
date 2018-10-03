@@ -96,15 +96,6 @@ A “die” shall be defined as any combination of pseudorandom or random number
 **304**
 A rule change is adopted if and only if the vote is passed by a simple majority of the eligible voters.
 
-**306**
-The player order shall be as follows:
-Jacob H
-Joshua K
-Thomas M
-Brett W
-Noah S
-This list of players may be amended arbitrarily when a new player is added to the game. Players shall take one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points. Any other changes to this rule should follow standard voting procedure.
-
 **308**
 Players may join the game at any time. New players become eligible voters the turn following the one in which they join.
 
@@ -138,10 +129,20 @@ Every player is an eligible voter. Eligible voters may abstain from voting at an
 **328**
 Abolish Rule 323
 
+**329**
+The player order shall be as follows:
+
+* Jacob H
+* Joshua K
+* Thomas M
+* Brett W
+* Noah S
+
+This list of players may be amended arbitrarily when a new player is added to the game. Players shall take one whole turn apiece. Players may optionally skip or pass their turns but must declare their intention to skip turns verbally or in writing. All players begin with zero points. Any other changes to this rule should follow standard voting procedure.
 
 Score Log
 **Jake** 9
 **Joshua** -146
-**Thomas** 53
-**Brett** -17
+**Thomas** 48
+**Brett** -11
 **Noah** 0
