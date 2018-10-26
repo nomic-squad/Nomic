@@ -146,3 +146,5 @@ Score Log
 **Thomas** 48
 **Brett** -11
 **Noah** 0
+
+**[PROPOSAL] 3xx** (If passed, this proposal would become Rule 330.)
