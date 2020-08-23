@@ -92,8 +92,7 @@ This rule takes precedence over every other rule determining the winner.
 
 ### Mutable Rules
 
+_Resolution to Consider
 **301.** Players shall alternate in clockwise order, taking one whole turn apiece. A player designated to propose a rule must do so within 48 hours of the previous voting phase ending. If said player fails to propose a rule within 48 hours, the player who would otherwise propose the next rule may propose a new rule. No part of the game which involves voting may be passed or skipped. All players begin with zero points.
 
 In mail and computer games, players shall alternate in alphabetical order by surname.
-
-**302.** \[In progress]
