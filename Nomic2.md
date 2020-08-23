@@ -89,3 +89,13 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 **213.** If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
 This rule takes precedence over every other rule determining the winner. 
+
+## Player Created Rules
+
+### Mutable Rules
+
+**301.** Players shall alternate in clockwise order, taking one whole turn apiece. A player designated to propose a rule must do so within 48 hours of the previous voting phase ending. If said player fails to propose a rule within 48 hours, the player who would otherwise propose the next rule may propose a new rule. No part of the game which involves voting may be passed or skipped. All players begin with zero points.
+
+In mail and computer games, players shall alternate in alphabetical order by surname.
+
+**302.** \[In progress]
