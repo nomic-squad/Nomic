@@ -96,6 +96,15 @@ This rule takes precedence over every other rule determining the winner.
 
 In mail and computer games, players shall alternate in alphabetical order by surname.
 
-_Resolution to Consider
-
 **302.** Strike down rule 101 as immutable and make it mutable.
+
+**303.**
+
+## Scoring
+
+| Player Name | Score |
+|-------------|-------|
+| Degree      | 10    |
+| Axe         | 11    |
+| NewReligion | 0     |
+
