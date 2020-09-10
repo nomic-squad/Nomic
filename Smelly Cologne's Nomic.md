@@ -98,7 +98,7 @@ In mail and computer games, players shall alternate in alphabetical order by sur
 
 **302.** Strike down rule 101 as immutable and make it mutable.
 
-**303. (PROPOSED)** Strike down rule 108 as immutable and transmute it to mutable.
+**304.**
 
 ## Scoring
 
